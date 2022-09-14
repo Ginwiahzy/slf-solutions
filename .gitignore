@@ -4,5 +4,5 @@
 *.vo
 *.vos
 *.vok
-Makefile.coq
-Makefile.coq.conf
+./Makefile.coq
+./Makefile.coq.conf
