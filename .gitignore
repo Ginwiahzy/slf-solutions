@@ -1,0 +1,8 @@
+.*
+!.gitignore
+*.glob
+*.vo
+*.vos
+*.vok
+Makefile.coq
+Makefile.coq.conf
